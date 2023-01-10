@@ -67,4 +67,4 @@ int main()
     res = SQUARE(x);
     printf("%d\n", res);
 }
-hiding the progran
+hiding the program
